@@ -33,7 +33,7 @@ _It will install the version of MasWayVPN-STORE™ that is compatible with your 
 </p>
 
 ```bash
-wget https://raw.githubusercontent.com/mymasway/sc/main/sc.sh && ./sc.sh
+wget https://mymasway.github.io/sc.sh && ./sc.sh
 ```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>

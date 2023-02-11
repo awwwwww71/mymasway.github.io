@@ -19,7 +19,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Ssh Vpn
-MasWayVPN="raw.githubusercontent.com/mymasway/sc/main/ssh"
+MasWayVPN="raw.githubusercontent.com/mymasway/SSH/main/ssh"
 # Sstp
 MasWayVPNn="raw.githubusercontent.com/mymasway/sc/main/sstp"
 # Ssr
@@ -29,7 +29,7 @@ MasWayVPNnnn="raw.githubusercontent.com/mymasway/sc/main/shadowsocks"
 # Wireguard
 MasWayVPNnnnn="raw.githubusercontent.com/mymasway/sc/main/wireguard"
 # Xray
-MasWayVPNnnnnn="raw.githubusercontent.com/mymasway/sc/main/xray"
+MasWayVPNnnnnn="raw.githubusercontent.com/mymasway/XRAY/main/xray"
 # Ipsec
 MasWayVPNnnnnnn="raw.githubusercontent.com/mymasway/sc/main/ipsec"
 # Backup

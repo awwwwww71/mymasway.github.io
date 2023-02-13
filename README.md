@@ -192,12 +192,7 @@ Server Information & Other Features
 _If you have any feedback, please reach me out:_
 - _www.facebook.com/kornips_
 - _www.phcorner.net/members/blackestsaint.455497/_
-- _https://t.me/blackestsaint_
-
-
-  <p align="center"> <img src="https://user-images.githubusercontent.com/76937659/153705961-79f5a170-5563-4f90-9423-f45c7011ac3f.gif" width="200" height="180" /> </p>
-
-
+- _https://t.me/MasWayVPN_
  
 #
 

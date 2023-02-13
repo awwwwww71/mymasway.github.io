@@ -160,10 +160,6 @@ Server Information & Other Features
 
 ## Screenshots
 
-![App Screenshot](https://github.com/korn-sudo/Project-Fog/raw/main/files/screenshots/version3.01.png/)
-
-
-
 #
 ## _Learn more about ☁️Project Fog☁️_
 - [_Project Fog Versions_](docs/fog-versions.md)
